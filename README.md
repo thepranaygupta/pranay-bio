@@ -2,7 +2,13 @@
 
 - - -
 
-## Pranay's Social
+## Pranay's Bio
+
+Being passionate about technology and having the desire to learn and explore more makes Pranay what he is. He is a second-year engineering student pursuing bachelors at the West Bengal University of Technology. He is the Program Manager of SSOC'22 (Script Summer of Code), Mentor at SWOC'21 (Script Winter of Code), was a Top Contributor at GWOC'21 (GirlScript Winter of Contributing).
+
+His passion for Web Development and Open-Source is immense and he has been part of 4 Open-Source Programs with different roles.
+
+## Pranay's Socials
 
 - Twitter: <a href="https://twitter.com/ThePranayGupta">@ThePranayGupta</a>
 - Linkedin: <a href="https://www.linkedin.com/in/thepranaygupta/">in/thepranaygupta/</a>
@@ -19,4 +25,4 @@ You can select any of the picture you see a perfect fit for the poster/banner fr
 
 Feel free to reach out to me if you require any further information!
 
-# Thank You!
+## Thank You!
